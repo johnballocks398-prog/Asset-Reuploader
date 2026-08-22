@@ -11,7 +11,7 @@
 
 Roblox asset reuploader using a [roblox plugin](https://create.roblox.com/store/asset/89096096219225/Asset-Reuploader) and go.
 
-Intended to reupload assets since you are unable to use assets if another account owns them.
+Intended to streamline the process of reuploading your assets during production/etc.
 
 ### Community
 
@@ -26,12 +26,12 @@ Join the [discord](https://discord.gg/XTEtUqPTat) and interact with the communit
 ### Currently supported assets
 
 - Animations
-- Audio (paid, join discord)
-- Meshes (paid)
+- Audio (paid feature, join discord)
+- Meshes (paid feature)
 
 ## Contributing
 
-ALL contributions are welcome. Feel free to make a pull/fork at any time. Please read the [contribution guide](https://github.com/kartFr/Asset-Reuploader/blob/main/CONTRIBUTING.md).
+ALL contributions are welcome. Feel free to make a pull/fork at any time, it's allowed. Please read the [contribution guide](https://github.com/kartFr/Asset-Reuploader/blob/main/CONTRIBUTING.md).
 
 The [discord](https://discord.gg/XTEtUqPTat) does have a dedicated suggestions channel. If you do have a feature request please do put it in there. But, you do have free will, so choose whichever.
 
